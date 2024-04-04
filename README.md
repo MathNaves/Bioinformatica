@@ -1,4 +1,4 @@
-ste projeto consiste em um prgrama que seja capaz de ler arquivos do tipo fasta contendo informaçoes geneticas e classifique elas de acordo com o seu COG de forma a salvar em um novo arquivo fasta com o nome do resoectivo COG contendo suas sequencias e IDs correspondentes
+Este projeto consiste em um prgrama que seja capaz de ler arquivos do tipo fasta contendo informaçoes geneticas e classifique elas de acordo com o seu COG de forma a salvar em um novo arquivo fasta com o nome do resoectivo COG contendo suas sequencias e IDs correspondentes
 
 Os arquivos recebidos foram :
 
